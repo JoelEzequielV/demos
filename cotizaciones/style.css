@@ -1,0 +1,42 @@
+*{
+margin: 3%;
+}
+body{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    width: 50%;
+    margin: auto;
+    background-color: rgb(215, 250, 235);
+}
+
+h1{
+    color: brown;
+    font-family: Georgia, 'Times New Roman', cursive;
+    font-weight: normal;
+    text-shadow: 0 1px 1px white;
+}
+.logo img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+.espera img{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    visibility: hidden;
+}
+#titulo{
+    color: brown;
+    font-family: cursive, 'Arial Narrow', Arial, sans-serif;
+}
+.cuadro{
+    background-color: rgb(215, 234, 250);
+    padding: 5px;
+    width: auto;
+}
+p{
+    background-color: rgb(245, 250, 215);
+    border-radius: 1px;
+    width: auto;
+}
